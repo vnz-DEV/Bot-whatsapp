@@ -11,6 +11,8 @@ pkg install git -y
 
 git clone https://github.com/vnz-DEV/Bot-whatsapp
 
+unzip file zip 
+
 sh install.sh
 
 npm start
