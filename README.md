@@ -6,4 +6,5 @@ buka termux lalu masukan perintah
 ============
 
 pkg update && upgrade
+
 pkg install git -y
