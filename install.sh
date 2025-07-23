@@ -4,4 +4,4 @@ pkg install nano -y
 pkg install npm -y
 pkg install yarn -y
 yarn install
-install 
+npm install 
